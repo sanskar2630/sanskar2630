@@ -70,12 +70,6 @@ A browser-based GTA V web project.
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sanskar2630&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 ---
